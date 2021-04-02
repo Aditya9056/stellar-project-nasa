@@ -1,0 +1,15 @@
+{
+  "name": "stellar_project_nasa",
+  "version": "1.0.0",
+  "description": "This Web App shows Astronomy Picture of the Day using the NASA API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "stellar_project_nasa"
+  },
+  "author": "",
+  "license": "ISC"
+}
